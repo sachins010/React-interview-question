@@ -41,10 +41,10 @@
 9) what is Package.json?
     -this will present on working directory and it'll carry the details of our application such as version,node package,description etc.
 
-10)Can we use react js without npm?
+10) Can we use react js without npm?
     -Yes, we can use it like jquery also. but we can not able to install the library.won't minify code.
 
-11)Can we connect react with the database Directly?
+11) Can we connect react with the database Directly?
     -No. We need API for DB connection.
 
 12)What is SPA(Single Page Application)?
